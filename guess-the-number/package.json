@@ -1,7 +1,6 @@
 {
   "name": "guess-the-number",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -17,5 +16,7 @@
     "colors": "^1.4.0",
     "commander": "^8.3.0",
     "nodemon": "^2.0.14"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
