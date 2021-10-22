@@ -1,0 +1,26 @@
+{
+  "name": "first-lesson",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "start:dev":"nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-Markov/GoIT-learn-node-js.git"
+  },
+  "author": "Sergey Markov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-Markov/GoIT-learn-node-js/issues"
+  },
+  "homepage": "https://github.com/Sergey-Markov/GoIT-learn-node-js#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
